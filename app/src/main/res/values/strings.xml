@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyNewRocK</string>
+    <string name="rock">ROCK</string>
+    <string name="paper">PAPER</string>
+    <string name="scissor">SCISSOR</string>
+    <string name="Username">UserName</string>
+    <string name="em">email</string>
+    <string name="name">Name</string>
+    <string name="msg">Message</string>
+    <string name="Go">GO</string>
+    <string name="Ret">GET</string>
+</resources>
